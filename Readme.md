@@ -1,3 +1,6 @@
+![Scores](https://github.com/user-attachments/assets/86c09d66-7c98-462b-ac7b-9934fa72b7e9)
+
+
 ## Text-2-SQL Benchmark
 Don't want to waste time figuring out whether some LLM can work for you? This app solves it.
 
